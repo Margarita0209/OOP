@@ -1,4 +1,4 @@
-# Lines starting with '#' are considered comments.
+# Lines starting with '1q' are considered comments.
 # Ignore any file named xxx.txt.
 xxx.txt
 # Ignore (generated) html files,
