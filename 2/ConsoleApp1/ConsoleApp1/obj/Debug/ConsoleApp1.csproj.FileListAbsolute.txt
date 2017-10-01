@@ -1,0 +1,7 @@
+D:\Универ\2 курс\OOП\2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+D:\Универ\2 курс\OOП\2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Универ\2 курс\OOП\2\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Универ\2 курс\OOП\2\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Универ\2 курс\OOП\2\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Универ\2 курс\OOП\2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Универ\2 курс\OOП\2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
