@@ -1,0 +1,15 @@
+D:\Универ\СтудОАП2016\pro\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+D:\Универ\СтудОАП2016\pro\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+D:\Универ\СтудОАП2016\pro\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+D:\Универ\СтудОАП2016\pro\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.csprojResolveAssemblyReference.cache
+D:\Универ\СтудОАП2016\pro\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+D:\Универ\СтудОАП2016\pro\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb
+D:\Универ\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+D:\Универ\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+D:\Универ\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb
+D:\Универ\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.csprojResolveAssemblyReference.cache
+D:\Универ\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+D:\Универ\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+D:\Универ\2 курс\OOП\3\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+D:\Универ\2 курс\OOП\3\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+D:\Универ\2 курс\OOП\3\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb
