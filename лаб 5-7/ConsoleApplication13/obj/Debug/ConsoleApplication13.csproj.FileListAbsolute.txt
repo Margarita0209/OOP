@@ -1,0 +1,6 @@
+D:\Универ\СтудОАП2016\pro\ConsoleApplication13\ConsoleApplication13\bin\Debug\ConsoleApplication13.exe.config
+D:\Универ\СтудОАП2016\pro\ConsoleApplication13\ConsoleApplication13\bin\Debug\ConsoleApplication13.exe
+D:\Универ\СтудОАП2016\pro\ConsoleApplication13\ConsoleApplication13\bin\Debug\ConsoleApplication13.pdb
+D:\Универ\СтудОАП2016\pro\ConsoleApplication13\ConsoleApplication13\obj\Debug\ConsoleApplication13.csprojResolveAssemblyReference.cache
+D:\Универ\СтудОАП2016\pro\ConsoleApplication13\ConsoleApplication13\obj\Debug\ConsoleApplication13.exe
+D:\Универ\СтудОАП2016\pro\ConsoleApplication13\ConsoleApplication13\obj\Debug\ConsoleApplication13.pdb
