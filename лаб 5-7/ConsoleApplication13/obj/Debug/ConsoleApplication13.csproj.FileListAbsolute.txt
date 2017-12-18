@@ -4,3 +4,6 @@ D:\Универ\СтудОАП2016\pro\ConsoleApplication13\ConsoleApplication13
 D:\Универ\СтудОАП2016\pro\ConsoleApplication13\ConsoleApplication13\obj\Debug\ConsoleApplication13.csprojResolveAssemblyReference.cache
 D:\Универ\СтудОАП2016\pro\ConsoleApplication13\ConsoleApplication13\obj\Debug\ConsoleApplication13.exe
 D:\Универ\СтудОАП2016\pro\ConsoleApplication13\ConsoleApplication13\obj\Debug\ConsoleApplication13.pdb
+C:\Users\User\OOP\лаб 5-7\ConsoleApplication13\bin\Debug\ConsoleApplication13.exe.config
+C:\Users\User\OOP\лаб 5-7\ConsoleApplication13\obj\Debug\ConsoleApplication13.exe
+C:\Users\User\OOP\лаб 5-7\ConsoleApplication13\obj\Debug\ConsoleApplication13.pdb

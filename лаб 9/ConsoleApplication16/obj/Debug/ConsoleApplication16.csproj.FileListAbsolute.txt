@@ -1,0 +1,6 @@
+D:\Универ\СтудОАП2016\pro\ConsoleApplication16\ConsoleApplication16\bin\Debug\ConsoleApplication16.exe.config
+D:\Универ\СтудОАП2016\pro\ConsoleApplication16\ConsoleApplication16\bin\Debug\ConsoleApplication16.exe
+D:\Универ\СтудОАП2016\pro\ConsoleApplication16\ConsoleApplication16\bin\Debug\ConsoleApplication16.pdb
+D:\Универ\СтудОАП2016\pro\ConsoleApplication16\ConsoleApplication16\obj\Debug\ConsoleApplication16.exe
+D:\Универ\СтудОАП2016\pro\ConsoleApplication16\ConsoleApplication16\obj\Debug\ConsoleApplication16.pdb
+D:\Универ\СтудОАП2016\pro\ConsoleApplication16\ConsoleApplication16\obj\Debug\ConsoleApplication16.csprojResolveAssemblyReference.cache
