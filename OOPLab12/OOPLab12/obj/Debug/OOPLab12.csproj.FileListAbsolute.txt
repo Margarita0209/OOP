@@ -1,0 +1,19 @@
+D:\Учеба\ДЭиВИ\ООП\OOPLab12-master\OOPLab12\bin\Debug\OOPLab12.exe.config
+D:\Учеба\ДЭиВИ\ООП\OOPLab12-master\OOPLab12\bin\Debug\OOPLab12.exe
+D:\Учеба\ДЭиВИ\ООП\OOPLab12-master\OOPLab12\bin\Debug\OOPLab12.pdb
+D:\Учеба\ДЭиВИ\ООП\OOPLab12-master\OOPLab12\obj\Debug\OOPLab12.csprojResolveAssemblyReference.cache
+D:\Учеба\ДЭиВИ\ООП\OOPLab12-master\OOPLab12\obj\Debug\OOPLab12.csproj.CoreCompileInputs.cache
+D:\Учеба\ДЭиВИ\ООП\OOPLab12-master\OOPLab12\obj\Debug\OOPLab12.exe
+D:\Учеба\ДЭиВИ\ООП\OOPLab12-master\OOPLab12\obj\Debug\OOPLab12.pdb
+D:\Универ\2 курс\OOП\OOPLab12-master\OOPLab12\bin\Debug\OOPLab12.exe.config
+D:\Универ\2 курс\OOП\OOPLab12-master\OOPLab12\obj\Debug\OOPLab12.exe
+D:\Универ\2 курс\OOП\OOPLab12-master\OOPLab12\obj\Debug\OOPLab12.pdb
+D:\Универ\2 курс\OOП\OOPLab12-master\OOPLab12\bin\Debug\OOPLab12.exe
+D:\Универ\2 курс\OOП\OOPLab12-master\OOPLab12\bin\Debug\OOPLab12.pdb
+D:\Универ\2 курс\OOП\OOPLab12-master\OOPLab12\obj\Debug\OOPLab12.csprojResolveAssemblyReference.cache
+D:\Универ\2 курс\OOП\мои\OOPLab12\OOPLab12\bin\Debug\OOPLab12.exe.config
+D:\Универ\2 курс\OOП\мои\OOPLab12\OOPLab12\obj\Debug\OOPLab12.exe
+D:\Универ\2 курс\OOП\мои\OOPLab12\OOPLab12\obj\Debug\OOPLab12.pdb
+D:\Универ\2 курс\OOП\мои\OOPLab12\OOPLab12\bin\Debug\OOPLab12.exe
+D:\Универ\2 курс\OOП\мои\OOPLab12\OOPLab12\bin\Debug\OOPLab12.pdb
+D:\Универ\2 курс\OOП\мои\OOPLab12\OOPLab12\obj\Debug\OOPLab12.csprojResolveAssemblyReference.cache

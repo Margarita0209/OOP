@@ -1,0 +1,9 @@
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<a1:Program_x002B_Library id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/OOPLab14/OOPLab14%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<Book_x002B__x003C_BookName_x003E_k__BackingField id="ref-3">soap</Book_x002B__x003C_BookName_x003E_k__BackingField>
+<Book_x002B__x003C_Genre_x003E_k__BackingField href="#ref-3"/>
+<Book_x002B__x003C_Author_x003E_k__BackingField href="#ref-3"/>
+</a1:Program_x002B_Library>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>

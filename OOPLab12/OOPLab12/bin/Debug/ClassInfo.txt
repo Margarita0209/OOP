@@ -1,0 +1,19 @@
+Класс: OOPLab12.Book
+
+Void ShowMePls(Int32, Int32)
+System.String ToString()
+System.String get_BookName()
+Void set_BookName(System.String)
+System.String get_Genre()
+Void set_Genre(System.String)
+System.String get_Author()
+Void set_Author(System.String)
+Boolean Equals(System.Object)
+Int32 GetHashCode()
+System.Type GetType()
+Void .ctor()
+Void .ctor(System.String, System.String, System.String)
+System.String BookName
+System.String Genre
+System.String Author
+-------------------------------------------------------
